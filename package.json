@@ -1,0 +1,14 @@
+{
+  "id": "reddit",
+  "name": "Reddit",
+  "version": "0.0.1",
+  "description": "Reddit",
+  "main": "index.js",
+  "author": "Jazereel Goh <jason.teo@live.com.sg>",
+  "repository": "https://github.com/nnk95/franz-reddit",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.reddit.com/",
+    "hasNotificationSound": true
+  }
+}
