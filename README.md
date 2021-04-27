@@ -1,6 +1,6 @@
 # franz-reddit
 
-![GitHub last commit](https://img.shields.io/github/last-commit/nnk95/franz-reddit?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/nnk95/franz-reddit?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/nnk95/franz-reddit?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/nnk95/franz-reddit?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/nnk95/franz-reddit?style=for-the-badge)
 
 Very basic Franz Recipe for Reddit
 
