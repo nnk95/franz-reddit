@@ -1,4 +1,7 @@
 # franz-reddit
+
+![GitHub last commit](https://img.shields.io/github/last-commit/nnk95/franz-reddit?style=for-the-badge)
+
 Very basic Franz Recipe for Reddit
 
 # Installation
